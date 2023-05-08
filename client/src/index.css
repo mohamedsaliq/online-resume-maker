@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,200&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  
+}
+
+.ant-spin{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   z-index: 10;
+}
+.css-dev-only-do-not-override-diro6f{
+
+  border-color: #737373;
+}
+.ant-btn-dashed{
+
+  background: white !important;
+  color: black !important;
+  border-style: 1px dashed gray !important;
+  width: 200px !important;
+}
+
+.ant-input css-dev-only-do-not-override-diro6f{
+  height: 161px;
+}
+.divider{
+  width: 100%;
+  height: 2px;
+  background-color: gray;
+}
+
+

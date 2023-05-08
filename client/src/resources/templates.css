@@ -1,0 +1,67 @@
+/*home styling image template */
+
+.home .template01{
+    margin: 20px;
+    box-shadow: 0 0 3px gray;
+    border: 1px solid gray;
+    padding: 11px;
+    position: relative;
+}
+
+.home .template01 .text01{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom:0%;
+    right: 0%;
+    opacity: 0;
+}
+.home .template01 .text01:hover{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.home .template01 button{
+
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+
+
+/* template styling*/
+.template1-parent{
+    color: rgba(3, 0, 0, 0.685);
+    padding: 100px;
+}
+.template1-parent h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.template1-parent p{
+
+    margin-top: 2px;
+    padding-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+.template1-parent h3{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+.template1-parent h6{
+  padding-bottom: 2px;
+  margin: 0;
+}
+.temp1 p{
+    font-size: 15px;
+}
